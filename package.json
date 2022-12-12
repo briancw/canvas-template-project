@@ -23,7 +23,7 @@
     "css-loader": "^3.4.2",
     "eslint": "^6.8.0",
     "eslint-config-brian": "^1.0.6",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fractal-noise": "^1.0.0",
     "javascript-astar": "^0.4.1",
     "less": "^3.11.1",
